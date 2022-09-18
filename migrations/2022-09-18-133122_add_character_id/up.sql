@@ -1,0 +1,2 @@
+ALTER TABLE accounts
+ADD COLUMN character_id INTEGER NOT NULL
