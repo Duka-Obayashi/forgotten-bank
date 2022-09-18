@@ -3,6 +3,7 @@
 diesel::table! {
     accounts (id) {
         id -> Int4,
+        character_id -> Int4,
     }
 }
 
